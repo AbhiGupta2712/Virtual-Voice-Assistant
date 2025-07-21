@@ -1,9 +1,7 @@
 Virtual Voice Assistant- DODO
 Python based project
 By:
-	Abhinav Gupta 0061
-	Komal Singh Shekhawat 0075
-	Nitesh Kandpal 0219
+	Abhinav Gupta 
 Libraries used:
 	pyttsx3- pip install pyttsx3
 	datetime- in-built and pre-installed
