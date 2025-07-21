@@ -1,0 +1,57 @@
+Virtual Voice Assistant- DODO
+Python based project
+By:
+	Abhinav Gupta 
+Libraries used:
+	pyttsx3- pip install pyttsx3
+	datetime- in-built and pre-installed
+	speech_recognition- pip install SpeechRecognition
+	random- in-built and pre-installed
+	wikipedia- pip install wikipedia
+	pywhatkit- pip install pywhatkit
+	tkinter- pip install tk
+
+pyttsx3:
+Text-to-speech conversion library in Python.
+engine.setProperty('rate',180): setting up new voice rate
+engine.setProperty('volume',1.0): setting up new voice volume
+engine.setProperty('voice', voices[1].id): changing index, changes voices. 0 for male and 1 for female
+
+datetime:
+Classes to work with date and time.
+These classes provide a number of functions to deal with dates, times and time intervals.
+Date and datetime are an object in Python, so when you manipulate them,
+you are actually manipulating objects and not string or timestamps.
+
+speech_recognition:
+An important feature in several applications used such as home automation, artificial intelligence, etc.
+Mainly used to access external input through speech using microphones with th help of PyAudio.
+
+random:
+It helps to choose a random entity from a collection of entities irrespective of their sequence.
+
+wikipedia:
+Multilingual online encyclopedia created and maintained as an open collaboration project 
+by a community of volunteer editors using a wiki-based editing system.
+In this article, we will see how to use Python’s Wikipedia module to fetch a variety of 
+information from the Wikipedia website.
+
+pywhatkit:
+Following are some features of pywhatkit module:
+Send WhatsApp messages.
+Play a YouTube video.
+Perform a Google Search.
+Get information on a particular topic.
+
+tkinter:
+Python interface to the Tk GUI toolkit shipped with Python.
+standard GUI library for Python.
+Python when combined with Tkinter provides a fast and easy way to create GUI applications.
+Tkinter provides a powerful object-oriented interface to the Tk GUI toolkit.
+
+Functions avialable in or project for now:
+1)Ask questions
+2)Ask to search your query on web
+3)Ask to stream youtube videos
+4)Send whatsapp messages to friends
+5)Crack jokes
