@@ -1,5 +1,5 @@
 Virtual Voice Assistant- DODO
-Python based project
+Python based project[No LLM used]
 By:
 	Abhinav Gupta 
 Libraries used:
